@@ -1,6 +1,8 @@
 # Game of Life firmware
 
-An implementation of Conway's Game of Life, coded in CircuitPython using ChatGPT.
+An implementation of Conway's Game of Life made for the Eurorack module [Uncertainty](https://oamodular.org/products/uncertainty).  
+
+Coded in CircuitPython using ChatGPT.
 
 In future I'll be adding to this Readme to explain more, but for now: send a clock pulse into Uncertainty, modulate its level to seed the grid. Enjoy evolving gates. 
 

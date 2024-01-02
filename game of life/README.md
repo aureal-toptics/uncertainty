@@ -4,7 +4,7 @@ An implementation of Conway's Game of Life made for the Eurorack module [Uncerta
 
 Coded in CircuitPython using ChatGPT.
 
-In future I'll be adding to this Readme to explain more, but for now: send a clock pulse into Uncertainty, modulate its level to seed the grid. Enjoy evolving gates. 
+In future I'll be adding to this Readme to explain more, but for now: send a clock pulse into Uncertainty. The amplitude of the pulse will determine how the grid is seeded. Change the level to change the seed. Enjoy evolving gates. 
 
 For some reason it take a few cycles to get started.
 
